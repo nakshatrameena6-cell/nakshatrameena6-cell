@@ -27,12 +27,7 @@
 
 <br/>
 
-<!-- ═══════════════════════════ QUOTE OF THE DAY ═══════════════════════════ -->
-<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="a new dev quote every time this profile loads" />
-
-</div>
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif" />
@@ -44,8 +39,8 @@ name:      Nakshatra S.V
 role:      Computer Science & Engineering Undergrad
 college:   Sri Shakthi Institute of Engineering and Technology
 building:  AI-assisted evaluation systems, OCR tooling, campus web apps
-learning:  LLM pipelines, TypeScript, system design
-motto:     "Ship it, then make it beautiful."
+learning:  LLM pipelines, TypeScript, system design,AI/ML 
+motto:     "Build.Break.Learn.Repeat"
 ```
 
 - 🎓 Pursuing a **B.E. in Computer Science and Engineering**
@@ -55,7 +50,7 @@ motto:     "Ship it, then make it beautiful."
 - 🌱 Sharpening skills in **LLM-driven applications** and **scalable system design**
 - 🧩 I enjoy turning messy, manual processes (grading, attendance, document handling) into clean automated systems
 - 💬 Ask me about **OCR pipelines, attendance systems, and front-end builds**
-- ⚡ Fun fact: I'd rather automate a 10-minute task than do it manually 10 times
+
 
 <br clear="right"/>
 
