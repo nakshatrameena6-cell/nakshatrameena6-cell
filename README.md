@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/7c3aed/nakshatrameena6-cell" alt="Nakshatra's live GitHub contribution calendar" width="100%" />
+  <img src="./assets/contribution-activity.svg" alt="Nakshatra's live GitHub contribution activity" width="100%" />
 </div>
 
 <h2 align="center">✦ Popular Repositories</h2>

@@ -1,0 +1,40 @@
+name: Update Contribution Activity
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger anytime
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/update_contributions.py'
+
+jobs:
+  update-contributions:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run contribution updater script
+        run: python scripts/update_contributions.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/contribution-activity.svg
+          if git diff --staged --quiet; then
+            echo "No changes in contribution activity."
+          else
+            git commit -m "Auto-update contribution activity graph [skip ci]"
+            git push
+          fi
