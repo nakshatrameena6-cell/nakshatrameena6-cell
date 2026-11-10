@@ -82,11 +82,10 @@ I'm a Computer Science undergraduate who turns repetitive, real-world problems â
 ## ğŸ“¡ Open a Channel
 
 <p align="center">
-  <a href="https://github.com/nakshatrameena6-cell"><img src="https://img.shields.io/badge/GitHub-nakshatrameena6--cell-0B0720?style=for-the-badge&logo=github&logoColor=F5C542" alt="GitHub" /></a>
-  <a href="https://graph-x-lovat.vercel.app"><img src="https://img.shields.io/badge/Live%20demo-GraphX-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="GraphX" /></a>
-  <!-- Add when ready (replace the handle/address, then delete the comment markers):
+  <a href="https://nakshatrasv-rho.vercel.app"><img src="https://img.shields.io/badge/Portfolio-nakshatrasv--rho.vercel.app-0B0720?style=for-the-badge&logo=vercel&logoColor=F5C542" alt="Portfolio" /></a>
+  <!-- Add when ready (replace the handle/address, then delete the comment markers): 
   <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-connect-0B0720?style=for-the-badge&logo=linkedin&logoColor=C084FC" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-say%20hi-0B0720?style=for-the-badge&logo=gmail&logoColor=F5C542" alt="Email" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-say%20hi-0B0720?style=for-the-badge&logo=gmail&logoColor=F5C542" alt="Email" /></a>  
   -->
 </p>
 
